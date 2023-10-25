@@ -10,7 +10,7 @@ My name is Joe Mahoney, my age is 26 and I hope to earn $100000.0 per year.
 2. Name and Initials
 */
 
-public class Exercise01 {
+public class Excercise01 {
 
     public static void main(String[] args){
     // declaring Variables
