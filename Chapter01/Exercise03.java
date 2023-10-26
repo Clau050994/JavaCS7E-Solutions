@@ -8,7 +8,7 @@ Write a program that displays the following information, each on a separate line
 Although these items should be displayed on separate output lines,
 * use only a single printing statement in your program.*/
 
-public class Excersice03 {
+public class Exercise03 {
 
     public static void main(String[] args){
 
