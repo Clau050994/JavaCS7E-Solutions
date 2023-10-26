@@ -7,7 +7,7 @@ Store your first, middle, and last initials in these variables.
 * The program should display the contents of these variables on the screen.
 * */
 
-public class Excersice02 {
+public class Exercise02 {
     public static void main(String[] args){
 
 
